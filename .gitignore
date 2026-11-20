@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+data/saved_profiles.json
+data/.cache/
+notifications/
+.gradio/

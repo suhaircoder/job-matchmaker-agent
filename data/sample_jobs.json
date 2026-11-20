@@ -1,0 +1,202 @@
+[
+  {
+    "id": "sample-python-backend",
+    "title": "Python Backend Developer",
+    "company": "Northwind Labs",
+    "location": "Lahore, Pakistan",
+    "remote": false,
+    "tags": ["Python", "Django", "REST APIs", "PostgreSQL", "Git"],
+    "description": "Build REST APIs with Django and PostgreSQL for a logistics product based in Lahore. You will review Git pull requests, design database tables, and ship backend features with the product team.",
+    "url": "https://example.com/jobs/northwind-python-backend"
+  },
+  {
+    "id": "sample-senior-django",
+    "title": "Senior Django Engineer",
+    "company": "Orbit Cloud",
+    "location": "Remote",
+    "remote": true,
+    "tags": ["Python", "Django", "AWS", "Docker"],
+    "description": "Senior engineers own Django services on AWS, package them with Docker, and mentor other backend developers. The team is remote and works across time zones.",
+    "url": "https://example.com/jobs/orbit-senior-django"
+  },
+  {
+    "id": "sample-python-intern",
+    "title": "Junior Python Intern",
+    "company": "Habib Digital",
+    "location": "Lahore, Pakistan",
+    "remote": false,
+    "tags": ["Python", "Git"],
+    "description": "A junior internship in Lahore for someone early in their career. You will write small Python scripts and learn the Git workflow with a mentor.",
+    "url": "https://example.com/jobs/habib-python-intern"
+  },
+  {
+    "id": "sample-fullstack",
+    "title": "Full Stack Developer",
+    "company": "Kite and Co",
+    "location": "Islamabad, Pakistan",
+    "remote": false,
+    "tags": ["Python", "React", "PostgreSQL", "JavaScript"],
+    "description": "Join an Islamabad team shipping a Python API and a React interface. PostgreSQL stores the product data, and JavaScript covers the browser side.",
+    "url": "https://example.com/jobs/kite-fullstack"
+  },
+  {
+    "id": "sample-data-analyst-khi",
+    "title": "Data Analyst",
+    "company": "Indus Analytics",
+    "location": "Karachi, Pakistan",
+    "remote": false,
+    "tags": ["SQL", "Excel", "Python", "Tableau", "statistics"],
+    "description": "Analyze customer data in Karachi with SQL, Excel, Python, and Tableau. You will explain statistics to the sales team and keep a weekly metrics workbook.",
+    "url": "https://example.com/jobs/indus-data-analyst"
+  },
+  {
+    "id": "sample-data-analyst-remote",
+    "title": "Data Analyst",
+    "company": "Fieldwork",
+    "location": "Remote",
+    "remote": true,
+    "tags": ["SQL", "Excel", "Python", "Tableau", "statistics"],
+    "description": "Remote data analyst role. Write SQL, clean tables in Python, build Tableau dashboards, and use Excel plus statistics to brief the founders each Monday.",
+    "url": "https://example.com/jobs/fieldwork-data-analyst"
+  },
+  {
+    "id": "sample-bi-analyst",
+    "title": "Business Intelligence Analyst",
+    "company": "Meadow Finance",
+    "location": "Remote",
+    "remote": true,
+    "tags": ["SQL", "Power BI", "Python"],
+    "description": "Build Power BI models on top of warehouse SQL and the occasional Python script. The finance team is remote and wants a calm weekly reporting cycle.",
+    "url": "https://example.com/jobs/meadow-bi-analyst"
+  },
+  {
+    "id": "sample-data-scientist",
+    "title": "Data Scientist",
+    "company": "Beacon Health",
+    "location": "Remote",
+    "remote": true,
+    "tags": ["Python", "SQL", "Machine Learning", "statistics"],
+    "description": "Remote data science work on health records. You will use Python, SQL, statistics, and machine learning to test simple prediction models with clinicians.",
+    "url": "https://example.com/jobs/beacon-data-scientist"
+  },
+  {
+    "id": "sample-frontend",
+    "title": "Frontend Engineer",
+    "company": "Saffron Studio",
+    "location": "Karachi, Pakistan",
+    "remote": false,
+    "tags": ["JavaScript", "React", "CSS", "HTML", "TypeScript"],
+    "description": "Build the Karachi studio's client sites in React and TypeScript. HTML, CSS, and JavaScript quality matter as much as the component design.",
+    "url": "https://example.com/jobs/saffron-frontend"
+  },
+  {
+    "id": "sample-react-native",
+    "title": "React Native Developer",
+    "company": "Paperlane",
+    "location": "Lahore, Pakistan",
+    "remote": false,
+    "tags": ["JavaScript", "React Native", "CSS"],
+    "description": "Ship the Paperlane mobile app from Lahore using React Native, JavaScript, and shared CSS tokens from the web team.",
+    "url": "https://example.com/jobs/paperlane-react-native"
+  },
+  {
+    "id": "sample-devops",
+    "title": "DevOps Engineer",
+    "company": "Atlas Freight",
+    "location": "Remote",
+    "remote": true,
+    "tags": ["AWS", "Docker", "Kubernetes", "Linux", "CI/CD"],
+    "description": "Keep freight services running on AWS with Docker, Kubernetes, and Linux. You will own the CI/CD pipelines and on-call notes for a remote platform team.",
+    "url": "https://example.com/jobs/atlas-devops"
+  },
+  {
+    "id": "sample-qa",
+    "title": "QA Engineer",
+    "company": "Northwind Labs",
+    "location": "Lahore, Pakistan",
+    "remote": false,
+    "tags": ["Python", "Selenium", "testing"],
+    "description": "Write Selenium checks and Python test helpers for the Lahore product team. You will file clear bugs and sit with developers before release day.",
+    "url": "https://example.com/jobs/northwind-qa"
+  },
+  {
+    "id": "sample-marketing",
+    "title": "Digital Marketing Specialist",
+    "company": "Saffron Studio",
+    "location": "Islamabad, Pakistan",
+    "remote": false,
+    "tags": ["SEO", "Google Ads", "content", "social media"],
+    "description": "Plan SEO, Google Ads, and social content for studio clients in Islamabad. Writing and campaign reporting are the core of the week.",
+    "url": "https://example.com/jobs/saffron-marketing"
+  },
+  {
+    "id": "sample-accountant",
+    "title": "Accountant",
+    "company": "Meadow Finance",
+    "location": "Karachi, Pakistan",
+    "remote": false,
+    "tags": ["Excel", "QuickBooks", "bookkeeping"],
+    "description": "Close the monthly books in Karachi with Excel and QuickBooks. You will reconcile accounts and prepare invoices for the finance manager.",
+    "url": "https://example.com/jobs/meadow-accountant"
+  },
+  {
+    "id": "sample-designer",
+    "title": "Product Designer",
+    "company": "Paperlane",
+    "location": "Remote",
+    "remote": true,
+    "tags": ["Figma", "UI", "UX"],
+    "description": "Design product flows in Figma for a remote team. UI and UX research notes are shared with engineering twice a week.",
+    "url": "https://example.com/jobs/paperlane-designer"
+  },
+  {
+    "id": "sample-writer",
+    "title": "Technical Writer",
+    "company": "Orbit Cloud",
+    "location": "Remote",
+    "remote": true,
+    "tags": ["documentation", "Markdown", "API"],
+    "description": "Write API documentation in Markdown for a remote developer platform. You will sit with engineers and turn release notes into guides.",
+    "url": "https://example.com/jobs/orbit-writer"
+  },
+  {
+    "id": "sample-support",
+    "title": "Customer Support Specialist",
+    "company": "Habib Digital",
+    "location": "Remote",
+    "remote": true,
+    "tags": ["communication", "Zendesk", "writing"],
+    "description": "Answer customer email in Zendesk for a remote support desk. Clear writing and a calm tone matter more than a programming background.",
+    "url": "https://example.com/jobs/habib-support"
+  },
+  {
+    "id": "sample-cv-engineer",
+    "title": "Computer Vision Engineer",
+    "company": "Lumen Research",
+    "location": "Remote",
+    "remote": true,
+    "tags": ["Python", "Computer Vision", "Deep Learning", "PyTorch", "OpenCV"],
+    "description": "Remote computer vision role. Build Python models for image and video with deep learning and PyTorch, including face and video generation research.",
+    "url": "https://example.com/jobs/lumen-computer-vision"
+  },
+  {
+    "id": "sample-ml-engineer",
+    "title": "Machine Learning Engineer",
+    "company": "Northline AI",
+    "location": "Remote",
+    "remote": true,
+    "tags": ["Python", "Machine Learning", "FastAPI", "PyTorch"],
+    "description": "Ship machine learning services in Python and FastAPI. The remote team trains models and serves them to a research product.",
+    "url": "https://example.com/jobs/northline-ml"
+  },
+  {
+    "id": "sample-genai",
+    "title": "Generative AI Engineer",
+    "company": "Fieldnote",
+    "location": "Remote",
+    "remote": true,
+    "tags": ["Python", "Generative AI", "Deep Learning", "React"],
+    "description": "Build generative AI features with Python and deep learning, plus a React demo the research team can share. The role is remote.",
+    "url": "https://example.com/jobs/fieldnote-genai"
+  }
+]
